@@ -1,0 +1,460 @@
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW TIMUR / TUTUYAN / TUTUYAN II / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65703/65704/65711/900699648.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65711
+waktu_pengambilan 	: 04-05-2019 01:19:01
+kpu_jokowi 				: 74
+kpu_prabowo 			: 196
+kawalpemilu_jokowi		: 78
+kawalpemilu_prabowo		: 155
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW SELATAN / POSIGADAN / PILOLAHUNGA / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65760/65780/65793/900699867.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65793
+waktu_pengambilan 	: 04-05-2019 01:21:12
+kpu_jokowi 				: 50
+kpu_prabowo 			: 108
+kawalpemilu_jokowi		: 54
+kawalpemilu_prabowo		: 110
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW SELATAN / PINOLOSIAN TIMUR / DUMAGIN A / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65760/65812/65814/900699925.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65814
+waktu_pengambilan 	: 04-05-2019 01:23:21
+kpu_jokowi 				: 223
+kpu_prabowo 			: 15
+kawalpemilu_jokowi		: 84
+kawalpemilu_prabowo		: 168
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW SELATAN / HELUMO / HALABOLU / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65760/930105/928584/900802849.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:928584
+waktu_pengambilan 	: 04-05-2019 01:25:27
+kpu_jokowi 				: 102
+kpu_prabowo 			: 128
+kawalpemilu_jokowi		: 102
+kawalpemilu_prabowo		: 129
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW / BOLAANG / SOLIMANDUNGAN I / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65822/65900/65904/900700214.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65904
+waktu_pengambilan 	: 04-05-2019 01:28:11
+kpu_jokowi 				: 53
+kpu_prabowo 			: 203
+kawalpemilu_jokowi		: 56
+kawalpemilu_prabowo		: 203
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW / DUMOGA / PUSIAN SELATAN / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65822/83401/928547/900802773.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:928547
+waktu_pengambilan 	: 04-05-2019 01:30:03
+kpu_jokowi 				: 205
+kpu_prabowo 			: 15
+kawalpemilu_jokowi		: 200
+kawalpemilu_prabowo		: 11
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW / DUMOGA / PUSIAN BARAT / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65822/83401/928548/900802774.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:928548
+waktu_pengambilan 	: 04-05-2019 01:30:05
+kpu_jokowi 				: 208
+kpu_prabowo 			: 1
+kawalpemilu_jokowi		: 208
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW / DUMOGA TENGAH / IBOLIAN / TPS 6
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65822/83778/65840/900699992.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65840
+waktu_pengambilan 	: 04-05-2019 01:30:08
+kpu_jokowi 				: 85
+kpu_prabowo 			: 119
+kawalpemilu_jokowi		: 85
+kawalpemilu_prabowo		: 120
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / TONDANO TIMUR / KENDIS / TPS 6
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/65985/65989/900700526.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:65989
+waktu_pengambilan 	: 04-05-2019 01:30:43
+kpu_jokowi 				: 188
+kpu_prabowo 			: 49
+kawalpemilu_jokowi		: 189
+kawalpemilu_prabowo		: 49
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / KOMBI / KOLONGAN / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66005/66012/900700607.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66012
+waktu_pengambilan 	: 04-05-2019 01:31:06
+kpu_jokowi 				: 171
+kpu_prabowo 			: 25
+kawalpemilu_jokowi		: 170
+kawalpemilu_prabowo		: 26
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / LEMBEAN TIMUR / KAPATARAN / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66017/66018/900700620.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66018
+waktu_pengambilan 	: 04-05-2019 01:31:14
+kpu_jokowi 				: 171
+kpu_prabowo 			: 23
+kawalpemilu_jokowi		: 131
+kawalpemilu_prabowo		: 55
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / REMBOKEN / LELEKO / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66058/66069/900700765.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66069
+waktu_pengambilan 	: 04-05-2019 01:32:04
+kpu_jokowi 				: 171
+kpu_prabowo 			: 34
+kawalpemilu_jokowi		: 171
+kawalpemilu_prabowo		: 35
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / LANGOWAN TIMUR / TEEP / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66070/66071/900700772.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66071
+waktu_pengambilan 	: 04-05-2019 01:32:06
+kpu_jokowi 				: 274
+kpu_prabowo 			: 7
+kawalpemilu_jokowi		: 271
+kawalpemilu_prabowo		: 7
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / SONDER / LEILEM / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66089/66090/900700839.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66090
+waktu_pengambilan 	: 04-05-2019 01:32:34
+kpu_jokowi 				: 210
+kpu_prabowo 			: 7
+kawalpemilu_jokowi		: 197
+kawalpemilu_prabowo		: 0
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / SONDER / KAUNERAN / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66089/66094/900700854.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66094
+waktu_pengambilan 	: 04-05-2019 01:32:37
+kpu_jokowi 				: 209
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 216
+kawalpemilu_prabowo		: 5
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA / TOMBARIRI / RANOWANGKO / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/65974/66138/66142/900701056.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66142
+waktu_pengambilan 	: 04-05-2019 01:33:31
+kpu_jokowi 				: 229
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 15
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN SANGIHE / TABUKAN UTARA / NAHA / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66188/66189/66194/900701255.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66194
+waktu_pengambilan 	: 04-05-2019 01:35:16
+kpu_jokowi 				: 156
+kpu_prabowo 			: 24
+kawalpemilu_jokowi		: 156
+kawalpemilu_prabowo		: 27
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN SANGIHE / MANGANITU / BARANGKA / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66188/66263/66265/900701426.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66265
+waktu_pengambilan 	: 04-05-2019 01:36:20
+kpu_jokowi 				: 220
+kpu_prabowo 			: 28
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN SANGIHE / MANGANITU / MANUMPITAENG / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66188/66263/66267/900701432.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66267
+waktu_pengambilan 	: 04-05-2019 01:36:22
+kpu_jokowi 				: 187
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 187
+kawalpemilu_prabowo		: 12
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN SANGIHE / TAHUNA / SOATALOARA II / TPS 6
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66188/66325/66333/900701604.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66333
+waktu_pengambilan 	: 04-05-2019 01:37:27
+kpu_jokowi 				: 154
+kpu_prabowo 			: 45
+kawalpemilu_jokowi		: 54
+kawalpemilu_prabowo		: 45
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN SANGIHE / TAHUNA BARAT / KOLONGAN MITUNG / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66188/66351/66354/900701635.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66354
+waktu_pengambilan 	: 04-05-2019 01:37:46
+kpu_jokowi 				: 185
+kpu_prabowo 			: 0
+kawalpemilu_jokowi		: 185
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN TALAUD / RAINIS / BANTANE UTARA / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66371/66387/66394/900701741.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66394
+waktu_pengambilan 	: 04-05-2019 01:38:22
+kpu_jokowi 				: 183
+kpu_prabowo 			: 19
+kawalpemilu_jokowi		: 193
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN TALAUD / BEO SELATAN / PAMPALU / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66371/66526/66527/900701976.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66527
+waktu_pengambilan 	: 04-05-2019 01:40:24
+kpu_jokowi 				: 128
+kpu_prabowo 			: 22
+kawalpemilu_jokowi		: 129
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: SULAWESI UTARA / KEPULAUAN TALAUD / BEO SELATAN / NIAMPAK / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66371/66526/66529/900701979.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66529
+waktu_pengambilan 	: 04-05-2019 01:40:26
+kpu_jokowi 				: 148
+kpu_prabowo 			: 29
+kawalpemilu_jokowi		: 148
+kawalpemilu_prabowo		: 79
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / MOTOLING / RAANAN LAMA / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66577/66584/900702142.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66584
+waktu_pengambilan 	: 04-05-2019 01:41:35
+kpu_jokowi 				: 132
+kpu_prabowo 			: 8
+kawalpemilu_jokowi		: 132
+kawalpemilu_prabowo		: 0
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / KUMELEMBUAI / KUMELEMBUAI SATU / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66643/66646/900702403.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66646
+waktu_pengambilan 	: 04-05-2019 01:42:44
+kpu_jokowi 				: 190
+kpu_prabowo 			: 8
+kawalpemilu_jokowi		: 198
+kawalpemilu_prabowo		: 8
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / KUMELEMBUAI / KUMELEMBUAI DUA / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66643/66650/900702419.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66650
+waktu_pengambilan 	: 04-05-2019 01:42:49
+kpu_jokowi 				: 173
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 225
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / AMURANG BARAT / RUMOONG BAWAH D / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66661/66665/900702469.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66665
+waktu_pengambilan 	: 04-05-2019 01:43:07
+kpu_jokowi 				: 246
+kpu_prabowo 			: 25
+kawalpemilu_jokowi		: 184
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / TATAPAAN / PASLATEN / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66680/66681/900702536.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66681
+waktu_pengambilan 	: 04-05-2019 01:43:26
+kpu_jokowi 				: 195
+kpu_prabowo 			: 7
+kawalpemilu_jokowi		: 157
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA SELATAN / SULUUN TARERAN / SULUUN TIGA / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66544/66710/66714/900702640.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66714
+waktu_pengambilan 	: 04-05-2019 01:43:56
+kpu_jokowi 				: 104
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 164
+kawalpemilu_prabowo		: 36
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA UTARA / KALAWAT / WATUTUMOU / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66718/66819/66826/900703162.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66826
+waktu_pengambilan 	: 04-05-2019 01:45:54
+kpu_jokowi 				: 213
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 100
+kawalpemilu_prabowo		: 35
+------
+
+wilayah 			: SULAWESI UTARA / MINAHASA TENGGARA / TOMBATU UTARA / TOMBATU DUA UTARA / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66853/83789/85588/900782878.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:85588
+waktu_pengambilan 	: 04-05-2019 01:48:23
+kpu_jokowi 				: 174
+kpu_prabowo 			: 28
+kawalpemilu_jokowi		: 147
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: SULAWESI UTARA / BOLAANG MONGONDOW UTARA / BINTAUNA / BINTAUNA / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/66936/66949/66950/900703503.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:66950
+waktu_pengambilan 	: 04-05-2019 01:49:12
+kpu_jokowi 				: 60
+kpu_prabowo 			: 166
+kawalpemilu_jokowi		: 99
+kawalpemilu_prabowo		: 128
+------
+
+wilayah 			: SULAWESI UTARA / KOTA MANADO / BUNAKEN / MOLAS / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67130/67131/67132/900703918.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67132
+waktu_pengambilan 	: 04-05-2019 01:52:28
+kpu_jokowi 				: 223
+kpu_prabowo 			: 16
+kawalpemilu_jokowi		: 233
+kawalpemilu_prabowo		: 16
+------
+
+wilayah 			: SULAWESI UTARA / KOTA MANADO / WANEA / WANEA / TPS 23
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67130/67195/67196/900704666.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67196
+waktu_pengambilan 	: 04-05-2019 01:53:19
+kpu_jokowi 				: 169
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 96
+kawalpemilu_prabowo		: 20
+------
+
+wilayah 			: SULAWESI UTARA / KOTA MANADO / MALALAYANG / MALALAYANG SATU / TPS 37
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67130/67217/67218/900705062.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67218
+waktu_pengambilan 	: 04-05-2019 01:53:39
+kpu_jokowi 				: 202
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 180
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: SULAWESI UTARA / KOTA MANADO / MALALAYANG / BAHU / TPS 30
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67130/67217/67219/900705092.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67219
+waktu_pengambilan 	: 04-05-2019 01:53:40
+kpu_jokowi 				: 160
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 118
+kawalpemilu_prabowo		: 6
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / GIRIAN / GIRIAN ATAS / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67277/67278/900705667.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67278
+waktu_pengambilan 	: 04-05-2019 01:54:46
+kpu_jokowi 				: 141
+kpu_prabowo 			: 16
+kawalpemilu_jokowi		: 132
+kawalpemilu_prabowo		: 7
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / MAESA / BITUNG BARAT  DUA / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67285/67288/900705788.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67288
+waktu_pengambilan 	: 04-05-2019 01:54:56
+kpu_jokowi 				: 218
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 75
+kawalpemilu_prabowo		: 116
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / MAESA / BITUNG BARAT  DUA / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67285/67288/900705789.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67288
+waktu_pengambilan 	: 04-05-2019 01:54:56
+kpu_jokowi 				: 200
+kpu_prabowo 			: 61
+kawalpemilu_jokowi		: 173
+kawalpemilu_prabowo		: 7
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / MAESA / BITUNG BARAT  DUA / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67285/67288/900705790.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67288
+waktu_pengambilan 	: 04-05-2019 01:54:56
+kpu_jokowi 				: 187
+kpu_prabowo 			: 70
+kawalpemilu_jokowi		: 59
+kawalpemilu_prabowo		: 136
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / MAESA / BITUNG BARAT  DUA / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67285/67288/900705796.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67288
+waktu_pengambilan 	: 04-05-2019 01:54:56
+kpu_jokowi 				: 152
+kpu_prabowo 			: 40
+kawalpemilu_jokowi		: 102
+kawalpemilu_prabowo		: 2
+------
+
+wilayah 			: SULAWESI UTARA / KOTA BITUNG / MAESA / PATETEN TIGA / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67227/67285/67293/900705877.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67293
+waktu_pengambilan 	: 04-05-2019 01:55:01
+kpu_jokowi 				: 67
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 68
+kawalpemilu_prabowo		: 21
+------
+
+wilayah 			: SULAWESI UTARA / KOTA KOTAMOBAGU / KOTAMOBAGU BARAT / MOGOLAING / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67355/67386/67389/900706444.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67389
+waktu_pengambilan 	: 04-05-2019 01:56:41
+kpu_jokowi 				: 60
+kpu_prabowo 			: 152
+kawalpemilu_jokowi		: 65
+kawalpemilu_prabowo		: 113
+------
+
+wilayah 			: SULAWESI UTARA / KOTA KOTAMOBAGU / KOTAMOBAGU BARAT / MOGOLAING / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67355/67386/67389/900706452.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67389
+waktu_pengambilan 	: 04-05-2019 01:56:41
+kpu_jokowi 				: 57
+kpu_prabowo 			: 124
+kawalpemilu_jokowi		: 103
+kawalpemilu_prabowo		: 94
+------
+
+wilayah 			: SULAWESI UTARA / KOTA KOTAMOBAGU / KOTAMOBAGU BARAT / MOGOLAING / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/65702/67355/67386/67389/900706453.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:67389
+waktu_pengambilan 	: 04-05-2019 01:56:41
+kpu_jokowi 				: 42
+kpu_prabowo 			: 67
+kawalpemilu_jokowi		: 57
+kawalpemilu_prabowo		: 124
+------
+
