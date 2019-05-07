@@ -1,0 +1,520 @@
+wilayah 			: KEPULAUAN RIAU / KOTA TANJUNGPINANG / TANJUNG PINANG TIMUR / MELAYU KOTA PIRING / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25406/25412/25413/900154907.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25413
+waktu_pengambilan 	: 07-05-2019 07:54:06
+kpu_jokowi 				: 87
+kpu_prabowo 			: 123
+kawalpemilu_jokowi		: 87
+kawalpemilu_prabowo		: 124
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA TANJUNGPINANG / TANJUNG PINANG TIMUR / MELAYU KOTA PIRING / TPS 31
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25406/25412/25413/900154932.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25413
+waktu_pengambilan 	: 07-05-2019 07:54:06
+kpu_jokowi 				: 94
+kpu_prabowo 			: 142
+kawalpemilu_jokowi		: 95
+kawalpemilu_prabowo		: 143
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA TANJUNGPINANG / TANJUNG PINANG TIMUR / PINANG KENCANA / TPS 23
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25406/25412/25417/900155076.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25417
+waktu_pengambilan 	: 07-05-2019 07:54:11
+kpu_jokowi 				: 93
+kpu_prabowo 			: 128
+kawalpemilu_jokowi		: 93
+kawalpemilu_prabowo		: 127
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA TANJUNGPINANG / TANJUNG PINANG KOTA / TANJUNG PINANG KOTA / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25406/25418/25419/900155128.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25419
+waktu_pengambilan 	: 07-05-2019 07:54:13
+kpu_jokowi 				: 126
+kpu_prabowo 			: 15
+kawalpemilu_jokowi		: 125
+kawalpemilu_prabowo		: 15
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA TANJUNGPINANG / BUKIT BESTARI / SEI JANG / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25406/25423/25427/900155261.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25427
+waktu_pengambilan 	: 07-05-2019 07:54:23
+kpu_jokowi 				: 58
+kpu_prabowo 			: 54
+kawalpemilu_jokowi		: 58
+kawalpemilu_prabowo		: 126
+------
+
+wilayah 			: KEPULAUAN RIAU / KEPULAUAN ANAMBAS / JEMAJA / REWAK / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25429/25459/25462/900155431.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25462
+waktu_pengambilan 	: 07-05-2019 07:55:15
+kpu_jokowi 				: 86
+kpu_prabowo 			: 76
+kawalpemilu_jokowi		: 89
+kawalpemilu_prabowo		: 79
+------
+
+wilayah 			: KEPULAUAN RIAU / BINTAN / BINTAN TIMUR / KIJANG KOTA / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25471/25477/25478/900155497.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25478
+waktu_pengambilan 	: 07-05-2019 07:55:39
+kpu_jokowi 				: 105
+kpu_prabowo 			: 54
+kawalpemilu_jokowi		: 126
+kawalpemilu_prabowo		: 85
+------
+
+wilayah 			: KEPULAUAN RIAU / BINTAN / BINTAN TIMUR / KIJANG KOTA / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25471/25477/25478/900155498.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25478
+waktu_pengambilan 	: 07-05-2019 07:55:39
+kpu_jokowi 				: 113
+kpu_prabowo 			: 57
+kawalpemilu_jokowi		: 140
+kawalpemilu_prabowo		: 83
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / MORO / MORO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/25534/25535/900155878.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25535
+waktu_pengambilan 	: 07-05-2019 07:56:57
+kpu_jokowi 				: 71
+kpu_prabowo 			: 51
+kawalpemilu_jokowi		: 71
+kawalpemilu_prabowo		: 70
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / KUNDUR / TANJUNGBATU KOTA / TPS 36
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/25542/25544/900155971.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25544
+waktu_pengambilan 	: 07-05-2019 07:57:11
+kpu_jokowi 				: 103
+kpu_prabowo 			: 50
+kawalpemilu_jokowi		: 136
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / KARIMUN / SUNGAILAKAM TIMUR / TPS 26
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/25551/25554/900156087.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25554
+waktu_pengambilan 	: 07-05-2019 07:57:26
+kpu_jokowi 				: 32
+kpu_prabowo 			: 110
+kawalpemilu_jokowi		: 31
+kawalpemilu_prabowo		: 103
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / KARIMUN / TANJUNGBALAI KOTA / TPS 17
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/25551/87374/900787314.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:87374
+waktu_pengambilan 	: 07-05-2019 07:57:32
+kpu_jokowi 				: 72
+kpu_prabowo 			: 124
+kawalpemilu_jokowi		: 71
+kawalpemilu_prabowo		: 124
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / MERAL / MERAL KOTA / TPS 20
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/25558/25559/900156136.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25559
+waktu_pengambilan 	: 07-05-2019 07:57:34
+kpu_jokowi 				: 115
+kpu_prabowo 			: 10
+kawalpemilu_jokowi		: 114
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: KEPULAUAN RIAU / KARIMUN / MERAL BARAT / PANGKE / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25533/83514/25563/900156201.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25563
+waktu_pengambilan 	: 07-05-2019 07:58:28
+kpu_jokowi 				: 117
+kpu_prabowo 			: 111
+kawalpemilu_jokowi		: 98
+kawalpemilu_prabowo		: 95
+------
+
+wilayah 			: KEPULAUAN RIAU / LINGGA / SINGKEP / DABO / TPS 20
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25683/25684/25685/900156712.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25685
+waktu_pengambilan 	: 07-05-2019 08:00:43
+kpu_jokowi 				: 84
+kpu_prabowo 			: 121
+kawalpemilu_jokowi		: 98
+kawalpemilu_prabowo		: 79
+------
+
+wilayah 			: KEPULAUAN RIAU / LINGGA / SINGKEP / SUNGAILUMPUR / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25683/25684/928225/900802072.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:928225
+waktu_pengambilan 	: 07-05-2019 08:00:51
+kpu_jokowi 				: 54
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 80
+kawalpemilu_prabowo		: 82
+------
+
+wilayah 			: KEPULAUAN RIAU / LINGGA / SENAYANG / REJAI / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25683/25715/25719/900156861.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25719
+waktu_pengambilan 	: 07-05-2019 08:01:15
+kpu_jokowi 				: 120
+kpu_prabowo 			: 37
+kawalpemilu_jokowi		: 128
+kawalpemilu_prabowo		: 37
+------
+
+wilayah 			: KEPULAUAN RIAU / LINGGA / SINGKEP BARAT / SUNGAI BULUH / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25683/25736/25742/900156951.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25742
+waktu_pengambilan 	: 07-05-2019 08:02:20
+kpu_jokowi 				: 84
+kpu_prabowo 			: 94
+kawalpemilu_jokowi		: 84
+kawalpemilu_prabowo		: 90
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BELAKANG PADANG / KASU / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25747/25752/900157006.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25752
+waktu_pengambilan 	: 07-05-2019 08:03:32
+kpu_jokowi 				: 109
+kpu_prabowo 			: 0
+kawalpemilu_jokowi		: 109
+kawalpemilu_prabowo		: 87
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BELAKANG PADANG / TANJUNG SARI / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25747/25753/900157029.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25753
+waktu_pengambilan 	: 07-05-2019 08:03:33
+kpu_jokowi 				: 161
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 102
+kawalpemilu_prabowo		: 35
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AMPAR / TANJUNG SENGKUANG / TPS 16
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25754/25755/900157052.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25755
+waktu_pengambilan 	: 07-05-2019 08:03:37
+kpu_jokowi 				: 54
+kpu_prabowo 			: 140
+kawalpemilu_jokowi		: 54
+kawalpemilu_prabowo		: 139
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AMPAR / KAMPUNG SERAYA / TPS 17
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25754/25758/900157216.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25758
+waktu_pengambilan 	: 07-05-2019 08:03:41
+kpu_jokowi 				: 89
+kpu_prabowo 			: 76
+kawalpemilu_jokowi		: 89
+kawalpemilu_prabowo		: 75
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEKUPANG / TANJUNG RIAU / TPS 45
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25759/25760/900157281.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25760
+waktu_pengambilan 	: 07-05-2019 08:03:43
+kpu_jokowi 				: 94
+kpu_prabowo 			: 153
+kawalpemilu_jokowi		: 94
+kawalpemilu_prabowo		: 159
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEKUPANG / TANJUNG RIAU / TPS 53
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25759/25760/900157289.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25760
+waktu_pengambilan 	: 07-05-2019 08:03:43
+kpu_jokowi 				: 109
+kpu_prabowo 			: 149
+kawalpemilu_jokowi		: 111
+kawalpemilu_prabowo		: 149
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEKUPANG / PATAM LESTARI / TPS 37
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25759/25762/900157396.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25762
+waktu_pengambilan 	: 07-05-2019 08:03:49
+kpu_jokowi 				: 61
+kpu_prabowo 			: 139
+kawalpemilu_jokowi		: 61
+kawalpemilu_prabowo		: 138
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / NONGSA / BATU BESAR / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25767/25770/900157705.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25770
+waktu_pengambilan 	: 07-05-2019 08:04:46
+kpu_jokowi 				: 70
+kpu_prabowo 			: 191
+kawalpemilu_jokowi		: 70
+kawalpemilu_prabowo		: 121
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / LUBUK BAJA / LUBUK BAJA KOTA / TPS 32
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25779/25784/900158040.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25784
+waktu_pengambilan 	: 07-05-2019 08:05:08
+kpu_jokowi 				: 125
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 73
+kawalpemilu_prabowo		: 123
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEI BEDUK / TANJUNG PIAYU / TPS 17
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25785/25786/900158073.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25786
+waktu_pengambilan 	: 07-05-2019 08:05:11
+kpu_jokowi 				: 137
+kpu_prabowo 			: 114
+kawalpemilu_jokowi		: 34
+kawalpemilu_prabowo		: 169
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEI BEDUK / MANGSANG / TPS 018
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25785/25788/900158170.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25788
+waktu_pengambilan 	: 07-05-2019 08:05:16
+kpu_jokowi 				: 70
+kpu_prabowo 			: 90
+kawalpemilu_jokowi		: 42
+kawalpemilu_prabowo		: 118
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEI BEDUK / MANGSANG / TPS 046
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25785/25788/900158198.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25788
+waktu_pengambilan 	: 07-05-2019 08:05:16
+kpu_jokowi 				: 71
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 70
+kawalpemilu_prabowo		: 36
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SEI BEDUK / MANGSANG / TPS 088
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25785/25788/900158240.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25788
+waktu_pengambilan 	: 07-05-2019 08:05:16
+kpu_jokowi 				: 212
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 213
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / GALANG / SEMBULANG / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25790/25793/900158309.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25793
+waktu_pengambilan 	: 07-05-2019 08:05:21
+kpu_jokowi 				: 117
+kpu_prabowo 			: 47
+kawalpemilu_jokowi		: 177
+kawalpemilu_prabowo		: 47
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BENGKONG / BENGKONG LAUT / TPS 41
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25799/25800/900158385.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25800
+waktu_pengambilan 	: 07-05-2019 08:05:34
+kpu_jokowi 				: 50
+kpu_prabowo 			: 177
+kawalpemilu_jokowi		: 50
+kawalpemilu_prabowo		: 174
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BENGKONG / SADAI / TPS 17
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25799/25802/900158459.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25802
+waktu_pengambilan 	: 07-05-2019 08:05:38
+kpu_jokowi 				: 67
+kpu_prabowo 			: 116
+kawalpemilu_jokowi		: 67
+kawalpemilu_prabowo		: 115
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / TAMAN BALOI / TPS 41
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25806/900158701.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25806
+waktu_pengambilan 	: 07-05-2019 08:05:49
+kpu_jokowi 				: 212
+kpu_prabowo 			: 51
+kawalpemilu_jokowi		: 131
+kawalpemilu_prabowo		: 20
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / SUKAJADI / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25807/900158718.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25807
+waktu_pengambilan 	: 07-05-2019 08:05:51
+kpu_jokowi 				: 178
+kpu_prabowo 			: 43
+kawalpemilu_jokowi		: 178
+kawalpemilu_prabowo		: 42
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 061
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158792.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 62
+kpu_prabowo 			: 122
+kawalpemilu_jokowi		: 62
+kawalpemilu_prabowo		: 125
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 100
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158831.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 54
+kpu_prabowo 			: 121
+kawalpemilu_jokowi		: 53
+kawalpemilu_prabowo		: 121
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 105
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158836.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 109
+kpu_prabowo 			: 112
+kawalpemilu_jokowi		: 109
+kawalpemilu_prabowo		: 111
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 113
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158844.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 61
+kpu_prabowo 			: 153
+kawalpemilu_jokowi		: 61
+kawalpemilu_prabowo		: 152
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 142
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158873.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 69
+kpu_prabowo 			: 123
+kawalpemilu_jokowi		: 70
+kawalpemilu_prabowo		: 123
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BELIAN / TPS 166
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25808/900158897.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25808
+waktu_pengambilan 	: 07-05-2019 08:05:58
+kpu_jokowi 				: 66
+kpu_prabowo 			: 166
+kawalpemilu_jokowi		: 66
+kawalpemilu_prabowo		: 116
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BALOI PERMAI / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25810/900158981.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25810
+waktu_pengambilan 	: 07-05-2019 08:06:07
+kpu_jokowi 				: 62
+kpu_prabowo 			: 80
+kawalpemilu_jokowi		: 61
+kawalpemilu_prabowo		: 80
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BALOI PERMAI / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25810/900158988.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25810
+waktu_pengambilan 	: 07-05-2019 08:06:07
+kpu_jokowi 				: 143
+kpu_prabowo 			: 46
+kawalpemilu_jokowi		: 143
+kawalpemilu_prabowo		: 45
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BALOI PERMAI / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25810/900158990.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25810
+waktu_pengambilan 	: 07-05-2019 08:06:07
+kpu_jokowi 				: 140
+kpu_prabowo 			: 42
+kawalpemilu_jokowi		: 141
+kawalpemilu_prabowo		: 42
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATAM KOTA / BALOI PERMAI / TPS 20
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25804/25810/900158998.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25810
+waktu_pengambilan 	: 07-05-2019 08:06:07
+kpu_jokowi 				: 129
+kpu_prabowo 			: 113
+kawalpemilu_jokowi		: 129
+kawalpemilu_prabowo		: 112
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SAGULUNG / SUNGAI PELUNGGUT / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25811/25817/900159573.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25817
+waktu_pengambilan 	: 07-05-2019 08:06:35
+kpu_jokowi 				: 73
+kpu_prabowo 			: 69
+kawalpemilu_jokowi		: 71
+kawalpemilu_prabowo		: 69
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / SAGULUNG / SUNGAI PELUNGGUT / TPS 50
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25811/25817/900159621.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25817
+waktu_pengambilan 	: 07-05-2019 08:06:35
+kpu_jokowi 				: 33
+kpu_prabowo 			: 114
+kawalpemilu_jokowi		: 33
+kawalpemilu_prabowo		: 144
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AJI / BULIANG / TPS 81
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25818/25820/900159768.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25820
+waktu_pengambilan 	: 07-05-2019 08:06:38
+kpu_jokowi 				: 89
+kpu_prabowo 			: 9
+kawalpemilu_jokowi		: 189
+kawalpemilu_prabowo		: 9
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AJI / KIBING / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25818/25821/900159796.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25821
+waktu_pengambilan 	: 07-05-2019 08:06:39
+kpu_jokowi 				: 154
+kpu_prabowo 			: 61
+kawalpemilu_jokowi		: 154
+kawalpemilu_prabowo		: 60
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AJI / TANJUNG UNCANG / TPS 18
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25818/25822/900159873.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25822
+waktu_pengambilan 	: 07-05-2019 08:06:41
+kpu_jokowi 				: 105
+kpu_prabowo 			: 123
+kawalpemilu_jokowi		: 103
+kawalpemilu_prabowo		: 123
+------
+
+wilayah 			: KEPULAUAN RIAU / KOTA BATAM / BATU AJI / TANJUNG UNCANG / TPS 32
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/25405/25746/25818/25822/900159887.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:25822
+waktu_pengambilan 	: 07-05-2019 08:06:41
+kpu_jokowi 				: 123
+kpu_prabowo 			: 137
+kawalpemilu_jokowi		: 136
+kawalpemilu_prabowo		: 143
+------
+
