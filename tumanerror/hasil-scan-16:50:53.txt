@@ -1,0 +1,1540 @@
+wilayah 			: JAWA TIMUR / PACITAN / PUNUNG / MANTREN / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42414/42422/900449989.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42422
+waktu_pengambilan 	: 16-05-2019 16:50:53
+kpu_jokowi 				: 32
+kpu_prabowo 			: 94
+kawalpemilu_jokowi		: 33
+kawalpemilu_prabowo		: 94
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / PACITAN / MENADI / TPS 4
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42428/42443/900450227.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42443
+waktu_pengambilan 	: 16-05-2019 16:51:19
+kpu_jokowi 				: 51
+kpu_prabowo 			: 182
+kawalpemilu_jokowi		: 51
+kawalpemilu_prabowo		: 184
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TEGALOMBO / PLOSO / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42511/42518/900451030.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42518
+waktu_pengambilan 	: 16-05-2019 16:52:46
+kpu_jokowi 				: 79
+kpu_prabowo 			: 112
+kawalpemilu_jokowi		: 74
+kawalpemilu_prabowo		: 117
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TEGALOMBO / TAHUNAN / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42511/42521/900451078.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42521
+waktu_pengambilan 	: 16-05-2019 16:52:50
+kpu_jokowi 				: 118
+kpu_prabowo 			: 45
+kawalpemilu_jokowi		: 119
+kawalpemilu_prabowo		: 45
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TULAKAN / BUBAKAN / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42523/42535/900451285.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42535
+waktu_pengambilan 	: 16-05-2019 16:53:07
+kpu_jokowi 				: 46
+kpu_prabowo 			: 160
+kawalpemilu_jokowi		: 71
+kawalpemilu_prabowo		: 126
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TULAKAN / BUBAKAN / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42523/42535/900451286.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42535
+waktu_pengambilan 	: 16-05-2019 16:53:07
+kpu_jokowi 				: 71
+kpu_prabowo 			: 126
+kawalpemilu_jokowi		: 46
+kawalpemilu_prabowo		: 160
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TULAKAN / KETRO / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42523/42539/900451349.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42539
+waktu_pengambilan 	: 16-05-2019 16:53:12
+kpu_jokowi 				: 134
+kpu_prabowo 			: 92
+kawalpemilu_jokowi		: 161
+kawalpemilu_prabowo		: 59
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TULAKAN / KETRO / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42523/42539/900451350.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42539
+waktu_pengambilan 	: 16-05-2019 16:53:12
+kpu_jokowi 				: 112
+kpu_prabowo 			: 45
+kawalpemilu_jokowi		: 134
+kawalpemilu_prabowo		: 92
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / TULAKAN / KETRO / TPS 28
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42523/42539/900451370.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42539
+waktu_pengambilan 	: 16-05-2019 16:53:12
+kpu_jokowi 				: 21
+kpu_prabowo 			: 119
+kawalpemilu_jokowi		: 26
+kawalpemilu_prabowo		: 119
+------
+
+wilayah 			: JAWA TIMUR / PACITAN / SUDIMORO / SUMBEREJO / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42386/42559/42566/900451618.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42566
+waktu_pengambilan 	: 16-05-2019 16:53:42
+kpu_jokowi 				: 39
+kpu_prabowo 			: 47
+kawalpemilu_jokowi		: 139
+kawalpemilu_prabowo		: 47
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / SAMBIT / SAMBIT / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42626/42637/900452233.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42637
+waktu_pengambilan 	: 16-05-2019 16:55:30
+kpu_jokowi 				: 89
+kpu_prabowo 			: 105
+kawalpemilu_jokowi		: 91
+kawalpemilu_prabowo		: 107
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / PULUNG / POMAHAN / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42664/42676/900452660.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42676
+waktu_pengambilan 	: 16-05-2019 16:56:16
+kpu_jokowi 				: 147
+kpu_prabowo 			: 61
+kawalpemilu_jokowi		: 146
+kawalpemilu_prabowo		: 61
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / JETIS / KARANGGEBANG / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42699/42707/900452872.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42707
+waktu_pengambilan 	: 16-05-2019 16:56:55
+kpu_jokowi 				: 149
+kpu_prabowo 			: 53
+kawalpemilu_jokowi		: 149
+kawalpemilu_prabowo		: 73
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / SIMAN / RONOWIJAYAN / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42714/42715/900452919.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42715
+waktu_pengambilan 	: 16-05-2019 16:57:04
+kpu_jokowi 				: 36
+kpu_prabowo 			: 193
+kawalpemilu_jokowi		: 96
+kawalpemilu_prabowo		: 193
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / SUKOREJO / NAMBANGREJO / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42794/42798/900453600.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42798
+waktu_pengambilan 	: 16-05-2019 16:58:49
+kpu_jokowi 				: 189
+kpu_prabowo 			: 22
+kawalpemilu_jokowi		: 99
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / PONOROGO / BROTONEGARAN / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42829/42831/900453938.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42831
+waktu_pengambilan 	: 16-05-2019 16:59:30
+kpu_jokowi 				: 163
+kpu_prabowo 			: 82
+kawalpemilu_jokowi		: 163
+kawalpemilu_prabowo		: 83
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / PONOROGO / BANGUNSARI / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42829/42837/900454017.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42837
+waktu_pengambilan 	: 16-05-2019 16:59:42
+kpu_jokowi 				: 151
+kpu_prabowo 			: 72
+kawalpemilu_jokowi		: 121
+kawalpemilu_prabowo		: 94
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / JENANGAN / SETONO / TPS 5
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42849/42850/900454141.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42850
+waktu_pengambilan 	: 16-05-2019 16:59:57
+kpu_jokowi 				: 117
+kpu_prabowo 			: 68
+kawalpemilu_jokowi		: 111
+kawalpemilu_prabowo		: 68
+------
+
+wilayah 			: JAWA TIMUR / PONOROGO / JAMBON / KARANGLO KIDUL / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42570/42876/42881/900454423.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42881
+waktu_pengambilan 	: 16-05-2019 17:00:37
+kpu_jokowi 				: 170
+kpu_prabowo 			: 34
+kawalpemilu_jokowi		: 145
+kawalpemilu_prabowo		: 65
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / PANGGUL / KARANGTENGAH / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42898/42901/900454595.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42901
+waktu_pengambilan 	: 16-05-2019 17:01:03
+kpu_jokowi 				: 106
+kpu_prabowo 			: 32
+kawalpemilu_jokowi		: 167
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / PANGGUL / NGLEBENG / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42898/42909/900454710.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42909
+waktu_pengambilan 	: 16-05-2019 17:01:13
+kpu_jokowi 				: 147
+kpu_prabowo 			: 56
+kawalpemilu_jokowi		: 171
+kawalpemilu_prabowo		: 56
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / MUNJUNGAN / SOBO / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42916/42918/900454833.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42918
+waktu_pengambilan 	: 16-05-2019 17:01:37
+kpu_jokowi 				: 136
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 58
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / KARANGAN / KARANGAN / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42966/42969/900455646.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42969
+waktu_pengambilan 	: 16-05-2019 17:03:29
+kpu_jokowi 				: 151
+kpu_prabowo 			: 42
+kawalpemilu_jokowi		: 116
+kawalpemilu_prabowo		: 93
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / KARANGAN / KARANGAN / TPS 16
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42966/42969/900455648.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42969
+waktu_pengambilan 	: 16-05-2019 17:03:29
+kpu_jokowi 				: 133
+kpu_prabowo 			: 48
+kawalpemilu_jokowi		: 97
+kawalpemilu_prabowo		: 111
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / KARANGAN / JATIPRAHU / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42966/42977/900455759.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42977
+waktu_pengambilan 	: 16-05-2019 17:03:39
+kpu_jokowi 				: 147
+kpu_prabowo 			: 61
+kawalpemilu_jokowi		: 113
+kawalpemilu_prabowo		: 42
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / KAMPAK / KARANGREJO / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42979/42984/900455867.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42984
+waktu_pengambilan 	: 16-05-2019 17:03:48
+kpu_jokowi 				: 120
+kpu_prabowo 			: 7
+kawalpemilu_jokowi		: 102
+kawalpemilu_prabowo		: 11
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / KAMPAK / KARANGREJO / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42979/42984/900455868.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42984
+waktu_pengambilan 	: 16-05-2019 17:03:48
+kpu_jokowi 				: 102
+kpu_prabowo 			: 11
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 7
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / WATULIMO / WATULIMO / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/42987/42996/900456084.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:42996
+waktu_pengambilan 	: 16-05-2019 17:04:04
+kpu_jokowi 				: 139
+kpu_prabowo 			: 16
+kawalpemilu_jokowi		: 144
+kawalpemilu_prabowo		: 42
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / POGALAN / NGADIRENGGO / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/43035/43038/900456686.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43038
+waktu_pengambilan 	: 16-05-2019 17:04:57
+kpu_jokowi 				: 204
+kpu_prabowo 			: 46
+kawalpemilu_jokowi		: 151
+kawalpemilu_prabowo		: 55
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / POGALAN / NGADIRENGGO / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/43035/43038/900456687.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43038
+waktu_pengambilan 	: 16-05-2019 17:04:57
+kpu_jokowi 				: 151
+kpu_prabowo 			: 55
+kawalpemilu_jokowi		: 204
+kawalpemilu_prabowo		: 46
+------
+
+wilayah 			: JAWA TIMUR / TRENGGALEK / DURENAN / SEMARUM / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/42897/43046/43050/900456866.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43050
+waktu_pengambilan 	: 16-05-2019 17:05:17
+kpu_jokowi 				: 190
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 163
+kawalpemilu_prabowo		: 35
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / TULUNGAGUNG / BAGO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43070/43076/900457163.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43076
+waktu_pengambilan 	: 16-05-2019 17:05:53
+kpu_jokowi 				: 113
+kpu_prabowo 			: 74
+kawalpemilu_jokowi		: 134
+kawalpemilu_prabowo		: 66
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / NGANTRU / SRIKATON / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43123/43126/900457925.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43126
+waktu_pengambilan 	: 16-05-2019 17:06:55
+kpu_jokowi 				: 152
+kpu_prabowo 			: 23
+kawalpemilu_jokowi		: 153
+kawalpemilu_prabowo		: 23
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / SENDANG / KEDOYO / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43163/43164/900458394.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43164
+waktu_pengambilan 	: 16-05-2019 17:07:47
+kpu_jokowi 				: 153
+kpu_prabowo 			: 10
+kawalpemilu_jokowi		: 158
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / KARANGREJO / PUNJUL / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43175/43186/900458672.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43186
+waktu_pengambilan 	: 16-05-2019 17:08:20
+kpu_jokowi 				: 135
+kpu_prabowo 			: 72
+kawalpemilu_jokowi		: 135
+kawalpemilu_prabowo		: 73
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / GONDANG / TAWING / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43189/43191/900458718.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43191
+waktu_pengambilan 	: 16-05-2019 17:08:26
+kpu_jokowi 				: 148
+kpu_prabowo 			: 38
+kawalpemilu_jokowi		: 143
+kawalpemilu_prabowo		: 38
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / GONDANG / SEPATAN / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43189/43194/900458743.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43194
+waktu_pengambilan 	: 16-05-2019 17:08:30
+kpu_jokowi 				: 146
+kpu_prabowo 			: 39
+kawalpemilu_jokowi		: 141
+kawalpemilu_prabowo		: 52
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / GONDANG / SEPATAN / TPS 2
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43189/43194/900458744.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43194
+waktu_pengambilan 	: 16-05-2019 17:08:30
+kpu_jokowi 				: 141
+kpu_prabowo 			: 52
+kawalpemilu_jokowi		: 146
+kawalpemilu_prabowo		: 39
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / NGUNUT / SAMIR / TPS 6
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43228/43230/900459172.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43230
+waktu_pengambilan 	: 16-05-2019 17:09:16
+kpu_jokowi 				: 160
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 168
+kawalpemilu_prabowo		: 14
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / NGUNUT / PULOSARI / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43228/43245/900459416.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43245
+waktu_pengambilan 	: 16-05-2019 17:09:34
+kpu_jokowi 				: 189
+kpu_prabowo 			: 13
+kawalpemilu_jokowi		: 190
+kawalpemilu_prabowo		: 13
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / REJOTANGAN / PANJEREJO / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43257/43259/900459573.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43259
+waktu_pengambilan 	: 16-05-2019 17:09:54
+kpu_jokowi 				: 163
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 162
+kawalpemilu_prabowo		: 12
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / REJOTANGAN / JATIDOWO / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43257/43263/900459630.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43263
+waktu_pengambilan 	: 16-05-2019 17:09:58
+kpu_jokowi 				: 138
+kpu_prabowo 			: 9
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 19
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / REJOTANGAN / ARIYOJEDING / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43257/43271/900459785.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43271
+waktu_pengambilan 	: 16-05-2019 17:10:08
+kpu_jokowi 				: 186
+kpu_prabowo 			: 54
+kawalpemilu_jokowi		: 132
+kawalpemilu_prabowo		: 54
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / KALIDAWIR / KALIBATUR / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43274/43275/900459818.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43275
+waktu_pengambilan 	: 16-05-2019 17:10:13
+kpu_jokowi 				: 177
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 77
+kawalpemilu_prabowo		: 12
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / BESUKI / TANGGULKUNDUNG / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43292/43299/900460180.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43299
+waktu_pengambilan 	: 16-05-2019 17:10:43
+kpu_jokowi 				: 132
+kpu_prabowo 			: 136
+kawalpemilu_jokowi		: 162
+kawalpemilu_prabowo		: 36
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / PAKEL / SUWALUH / TPS 7
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43332/43342/900460671.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43342
+waktu_pengambilan 	: 16-05-2019 17:11:36
+kpu_jokowi 				: 176
+kpu_prabowo 			: 24
+kawalpemilu_jokowi		: 177
+kawalpemilu_prabowo		: 24
+------
+
+wilayah 			: JAWA TIMUR / TULUNGAGUNG / PAKEL / NGRANCE / TPS 1
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43069/43332/43348/900460713.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43348
+waktu_pengambilan 	: 16-05-2019 17:11:44
+kpu_jokowi 				: 126
+kpu_prabowo 			: 58
+kawalpemilu_jokowi		: 126
+kawalpemilu_prabowo		: 53
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / WONODADI / PIKATAN / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43361/43369/900460949.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43369
+waktu_pengambilan 	: 16-05-2019 17:12:08
+kpu_jokowi 				: 149
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 140
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SRENGAT / BAGELENAN / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43386/43398/900461390.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43398
+waktu_pengambilan 	: 16-05-2019 17:12:45
+kpu_jokowi 				: 115
+kpu_prabowo 			: 13
+kawalpemilu_jokowi		: 114
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / BAKUNG / SUMBERDADI / TPS 5
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43418/43422/900461770.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43422
+waktu_pengambilan 	: 16-05-2019 17:13:16
+kpu_jokowi 				: 139
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 161
+kawalpemilu_prabowo		: 11
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / BAKUNG / SUMBERDADI / TPS 6
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43418/43422/900461771.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43422
+waktu_pengambilan 	: 16-05-2019 17:13:16
+kpu_jokowi 				: 161
+kpu_prabowo 			: 11
+kawalpemilu_jokowi		: 139
+kawalpemilu_prabowo		: 33
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / BAKUNG / BULULAWANG / TPS 5
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43418/43425/900461792.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43425
+waktu_pengambilan 	: 16-05-2019 17:13:19
+kpu_jokowi 				: 59
+kpu_prabowo 			: 67
+kawalpemilu_jokowi		: 108
+kawalpemilu_prabowo		: 0
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / BAKUNG / KEDUNGBANTENG / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43418/43426/900461807.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43426
+waktu_pengambilan 	: 16-05-2019 17:13:21
+kpu_jokowi 				: 89
+kpu_prabowo 			: 11
+kawalpemilu_jokowi		: 86
+kawalpemilu_prabowo		: 11
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SANANKULON / KALIPUCUNG / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43446/43447/900462269.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43447
+waktu_pengambilan 	: 16-05-2019 17:13:47
+kpu_jokowi 				: 108
+kpu_prabowo 			: 20
+kawalpemilu_jokowi		: 163
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SANANKULON / KALIPUCUNG / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43446/43447/900462270.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43447
+waktu_pengambilan 	: 16-05-2019 17:13:47
+kpu_jokowi 				: 141
+kpu_prabowo 			: 29
+kawalpemilu_jokowi		: 134
+kawalpemilu_prabowo		: 37
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SANANKULON / KALIPUCUNG / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43446/43447/900462272.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43447
+waktu_pengambilan 	: 16-05-2019 17:13:47
+kpu_jokowi 				: 134
+kpu_prabowo 			: 37
+kawalpemilu_jokowi		: 141
+kawalpemilu_prabowo		: 29
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SANANKULON / KALIPUCUNG / TPS 16
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43446/43447/900462273.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43447
+waktu_pengambilan 	: 16-05-2019 17:13:47
+kpu_jokowi 				: 163
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 108
+kawalpemilu_prabowo		: 20
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SANANKULON / SANANKULON / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43446/43450/900462328.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43450
+waktu_pengambilan 	: 16-05-2019 17:13:54
+kpu_jokowi 				: 132
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 126
+kawalpemilu_prabowo		: 31
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / WONOTIRTO / NGENI / TPS 28
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43459/43466/900462600.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43466
+waktu_pengambilan 	: 16-05-2019 17:14:15
+kpu_jokowi 				: 120
+kpu_prabowo 			: 6
+kawalpemilu_jokowi		: 123
+kawalpemilu_prabowo		: 3
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / NGLEGOK / NGORAN / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43468/43473/900462758.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43473
+waktu_pengambilan 	: 16-05-2019 17:14:26
+kpu_jokowi 				: 141
+kpu_prabowo 			: 19
+kawalpemilu_jokowi		: 167
+kawalpemilu_prabowo		: 15
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / NGLEGOK / DAYU / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43468/43474/900462762.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43474
+waktu_pengambilan 	: 16-05-2019 17:14:27
+kpu_jokowi 				: 117
+kpu_prabowo 			: 32
+kawalpemilu_jokowi		: 177
+kawalpemilu_prabowo		: 32
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / KANIGORO / KANIGORO / TPS 16
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43480/43481/900462927.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43481
+waktu_pengambilan 	: 16-05-2019 17:14:36
+kpu_jokowi 				: 141
+kpu_prabowo 			: 19
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 24
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / KANIGORO / KARANGSONO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43480/43489/900463095.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43489
+waktu_pengambilan 	: 16-05-2019 17:14:47
+kpu_jokowi 				: 122
+kpu_prabowo 			: 39
+kawalpemilu_jokowi		: 118
+kawalpemilu_prabowo		: 48
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / GARUM / SIDODADI / TPS 35
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43493/43501/900463406.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43501
+waktu_pengambilan 	: 16-05-2019 17:15:04
+kpu_jokowi 				: 114
+kpu_prabowo 			: 6
+kawalpemilu_jokowi		: 125
+kawalpemilu_prabowo		: 14
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SUTOJAYAN / KALIPANG / TPS 22
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43503/43506/900463500.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43506
+waktu_pengambilan 	: 16-05-2019 17:15:27
+kpu_jokowi 				: 118
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 117
+kawalpemilu_prabowo		: 61
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SUTOJAYAN / PANDANARUM / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43503/43511/900463593.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43511
+waktu_pengambilan 	: 16-05-2019 17:15:41
+kpu_jokowi 				: 198
+kpu_prabowo 			: 22
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / TALUN / KAMULAN / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43526/43528/900463866.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43528
+waktu_pengambilan 	: 16-05-2019 17:16:03
+kpu_jokowi 				: 152
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 155
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / TALUN / TUMPANG / TPS 19
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43526/43531/900463924.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43531
+waktu_pengambilan 	: 16-05-2019 17:16:06
+kpu_jokowi 				: 162
+kpu_prabowo 			: 10
+kawalpemilu_jokowi		: 142
+kawalpemilu_prabowo		: 14
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / GANDUSARI / GADUNGAN / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43541/43543/900464116.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43543
+waktu_pengambilan 	: 16-05-2019 17:16:20
+kpu_jokowi 				: 173
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 1
+kawalpemilu_prabowo		: 0
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / GANDUSARI / BUTUN / TPS 19
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43541/43549/900464235.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43549
+waktu_pengambilan 	: 16-05-2019 17:16:27
+kpu_jokowi 				: 107
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 107
+kawalpemilu_prabowo		: 121
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / WLINGI / TEGALASRI / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43569/43577/900464718.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43577
+waktu_pengambilan 	: 16-05-2019 17:17:01
+kpu_jokowi 				: 181
+kpu_prabowo 			: 9
+kawalpemilu_jokowi		: 109
+kawalpemilu_prabowo		: 14
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / WLINGI / TEGALASRI / TPS 23
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43569/43577/900464735.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43577
+waktu_pengambilan 	: 16-05-2019 17:17:01
+kpu_jokowi 				: 131
+kpu_prabowo 			: 2
+kawalpemilu_jokowi		: 131
+kawalpemilu_prabowo		: 5
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / DOKO / DOKO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43579/43585/900464847.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43585
+waktu_pengambilan 	: 16-05-2019 17:17:12
+kpu_jokowi 				: 122
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 125
+kawalpemilu_prabowo		: 14
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / DOKO / DOKO / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43579/43585/900464849.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43585
+waktu_pengambilan 	: 16-05-2019 17:17:12
+kpu_jokowi 				: 132
+kpu_prabowo 			: 23
+kawalpemilu_jokowi		: 88
+kawalpemilu_prabowo		: 29
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / DOKO / DOKO / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43579/43585/900464853.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43585
+waktu_pengambilan 	: 16-05-2019 17:17:12
+kpu_jokowi 				: 142
+kpu_prabowo 			: 26
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 9
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / DOKO / JAMBEPAWON / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43579/43586/900464861.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43586
+waktu_pengambilan 	: 16-05-2019 17:17:13
+kpu_jokowi 				: 137
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 109
+kawalpemilu_prabowo		: 43
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / DOKO / RESAPOMBO / TPS 22
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43579/43588/900464906.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43588
+waktu_pengambilan 	: 16-05-2019 17:17:15
+kpu_jokowi 				: 138
+kpu_prabowo 			: 20
+kawalpemilu_jokowi		: 131
+kawalpemilu_prabowo		: 20
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / KESAMBEN / SIRAMAN / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43590/43591/900464930.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43591
+waktu_pengambilan 	: 16-05-2019 17:17:18
+kpu_jokowi 				: 126
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 126
+kawalpemilu_prabowo		: 13
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / KESAMBEN / KESAMBEN / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43590/43592/900464964.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43592
+waktu_pengambilan 	: 16-05-2019 17:17:19
+kpu_jokowi 				: 116
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 113
+kawalpemilu_prabowo		: 23
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / KESAMBEN / TAPAKREJO / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43590/43598/900465097.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43598
+waktu_pengambilan 	: 16-05-2019 17:17:27
+kpu_jokowi 				: 15
+kpu_prabowo 			: 21
+kawalpemilu_jokowi		: 150
+kawalpemilu_prabowo		: 21
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / WATES / SUKOREJO / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43601/43607/900465210.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43607
+waktu_pengambilan 	: 16-05-2019 17:17:37
+kpu_jokowi 				: 132
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: JAWA TIMUR / BLITAR / SELOREJO / BORO / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43360/43610/43619/900465401.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43619
+waktu_pengambilan 	: 16-05-2019 17:17:52
+kpu_jokowi 				: 104
+kpu_prabowo 			: 34
+kawalpemilu_jokowi		: 164
+kawalpemilu_prabowo		: 34
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / SEMEN / PUHSARANG / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43631/43637/900465683.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43637
+waktu_pengambilan 	: 16-05-2019 17:18:16
+kpu_jokowi 				: 149
+kpu_prabowo 			: 34
+kawalpemilu_jokowi		: 149
+kawalpemilu_prabowo		: 84
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / SEMEN / SEMEN / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43631/43639/900465706.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43639
+waktu_pengambilan 	: 16-05-2019 17:18:18
+kpu_jokowi 				: 183
+kpu_prabowo 			: 29
+kawalpemilu_jokowi		: 168
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / SEMEN / SEMEN / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43631/43639/900465715.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43639
+waktu_pengambilan 	: 16-05-2019 17:18:18
+kpu_jokowi 				: 192
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 146
+kawalpemilu_prabowo		: 15
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / KANDAT / SUMBERJO / TPS 18
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43699/43700/900466559.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43700
+waktu_pengambilan 	: 16-05-2019 17:19:28
+kpu_jokowi 				: 185
+kpu_prabowo 			: 28
+kawalpemilu_jokowi		: 183
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / KANDAT / KANDAT / TPS 04
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43699/43703/900466596.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43703
+waktu_pengambilan 	: 16-05-2019 17:19:32
+kpu_jokowi 				: 153
+kpu_prabowo 			: 22
+kawalpemilu_jokowi		: 153
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / WATES / PAGU / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43712/43718/900466805.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43718
+waktu_pengambilan 	: 16-05-2019 17:19:48
+kpu_jokowi 				: 147
+kpu_prabowo 			: 23
+kawalpemilu_jokowi		: 143
+kawalpemilu_prabowo		: 23
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / WATES / SUMBERAGUNG / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43712/43721/900466842.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43721
+waktu_pengambilan 	: 16-05-2019 17:19:52
+kpu_jokowi 				: 139
+kpu_prabowo 			: 26
+kawalpemilu_jokowi		: 166
+kawalpemilu_prabowo		: 25
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / WATES / DUWET / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43712/89584/900794325.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:89584
+waktu_pengambilan 	: 16-05-2019 17:19:57
+kpu_jokowi 				: 183
+kpu_prabowo 			: 29
+kawalpemilu_jokowi		: 183
+kawalpemilu_prabowo		: 26
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / WATES / TAWANG / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43712/89588/900794393.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:89588
+waktu_pengambilan 	: 16-05-2019 17:20:02
+kpu_jokowi 				: 139
+kpu_prabowo 			: 30
+kawalpemilu_jokowi		: 139
+kawalpemilu_prabowo		: 38
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / PLOSOKLATEN / KLANDERAN / TPS 3
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43744/43754/900467399.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43754
+waktu_pengambilan 	: 16-05-2019 17:20:41
+kpu_jokowi 				: 154
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 153
+kawalpemilu_prabowo		: 39
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / GROGOL / KALIPANG / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43808/43809/900468054.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43809
+waktu_pengambilan 	: 16-05-2019 17:22:53
+kpu_jokowi 				: 103
+kpu_prabowo 			: 36
+kawalpemilu_jokowi		: 123
+kawalpemilu_prabowo		: 10
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / GROGOL / GROGOL / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43808/43810/900468074.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43810
+waktu_pengambilan 	: 16-05-2019 17:22:55
+kpu_jokowi 				: 201
+kpu_prabowo 			: 25
+kawalpemilu_jokowi		: 201
+kawalpemilu_prabowo		: 125
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / GROGOL / GROGOL / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43808/43810/900468076.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43810
+waktu_pengambilan 	: 16-05-2019 17:22:55
+kpu_jokowi 				: 211
+kpu_prabowo 			: 32
+kawalpemilu_jokowi		: 147
+kawalpemilu_prabowo		: 50
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / GROGOL / BAKALAN / TPS 12
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43808/43817/900468202.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43817
+waktu_pengambilan 	: 16-05-2019 17:23:02
+kpu_jokowi 				: 164
+kpu_prabowo 			: 20
+kawalpemilu_jokowi		: 163
+kawalpemilu_prabowo		: 20
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / PURWOASRI / BELOR / TPS 5
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43836/43843/900468479.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43843
+waktu_pengambilan 	: 16-05-2019 17:24:55
+kpu_jokowi 				: 166
+kpu_prabowo 			: 28
+kawalpemilu_jokowi		: 160
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / PURWOASRI / TUGU / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43836/43848/900468524.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43848
+waktu_pengambilan 	: 16-05-2019 17:25:30
+kpu_jokowi 				: 110
+kpu_prabowo 			: 15
+kawalpemilu_jokowi		: 110
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / PLEMAHAN / LANGENHARJO / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43860/43861/900468643.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43861
+waktu_pengambilan 	: 16-05-2019 17:25:45
+kpu_jokowi 				: 157
+kpu_prabowo 			: 30
+kawalpemilu_jokowi		: 157
+kawalpemilu_prabowo		: 38
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / KEPUNG / KEPUNG / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43888/43894/900469227.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43894
+waktu_pengambilan 	: 16-05-2019 17:26:40
+kpu_jokowi 				: 180
+kpu_prabowo 			: 31
+kawalpemilu_jokowi		: 97
+kawalpemilu_prabowo		: 25
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / KANDANGAN / KANDANGAN / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43899/43908/900469486.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43908
+waktu_pengambilan 	: 16-05-2019 17:27:00
+kpu_jokowi 				: 139
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 52
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / KALIBOTO / TPS 30
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43914/900469614.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43914
+waktu_pengambilan 	: 16-05-2019 17:27:06
+kpu_jokowi 				: 135
+kpu_prabowo 			: 38
+kawalpemilu_jokowi		: 134
+kawalpemilu_prabowo		: 38
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / BULUSARI / TPS 15
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43915/900469631.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43915
+waktu_pengambilan 	: 16-05-2019 17:27:08
+kpu_jokowi 				: 157
+kpu_prabowo 			: 20
+kawalpemilu_jokowi		: 162
+kawalpemilu_prabowo		: 6
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / TAROKAN / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43916/900469657.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43916
+waktu_pengambilan 	: 16-05-2019 17:27:09
+kpu_jokowi 				: 94
+kpu_prabowo 			: 62
+kawalpemilu_jokowi		: 173
+kawalpemilu_prabowo		: 50
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / TAROKAN / TPS 33
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43916/900469684.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43916
+waktu_pengambilan 	: 16-05-2019 17:27:09
+kpu_jokowi 				: 114
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 115
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / KEREP / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43919/900469737.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43919
+waktu_pengambilan 	: 16-05-2019 17:27:12
+kpu_jokowi 				: 146
+kpu_prabowo 			: 31
+kawalpemilu_jokowi		: 104
+kawalpemilu_prabowo		: 40
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / KEREP / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43919/900469739.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43919
+waktu_pengambilan 	: 16-05-2019 17:27:12
+kpu_jokowi 				: 119
+kpu_prabowo 			: 26
+kawalpemilu_jokowi		: 119
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / TAROKAN / BLIMBING / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43912/43920/900469744.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43920
+waktu_pengambilan 	: 16-05-2019 17:27:13
+kpu_jokowi 				: 152
+kpu_prabowo 			: 14
+kawalpemilu_jokowi		: 116
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / KEDIRI / RINGINREJO / SELODONO / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43630/43946/43954/900470253.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:43954
+waktu_pengambilan 	: 16-05-2019 17:27:57
+kpu_jokowi 				: 166
+kpu_prabowo 			: 26
+kawalpemilu_jokowi		: 156
+kawalpemilu_prabowo		: 26
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SUMBERMANJING WETAN / KLEPU / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44025/44029/900471613.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44029
+waktu_pengambilan 	: 16-05-2019 17:30:15
+kpu_jokowi 				: 142
+kpu_prabowo 			: 45
+kawalpemilu_jokowi		: 156
+kawalpemilu_prabowo		: 29
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SUMBERMANJING WETAN / HARJOKUNCARAN / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44025/44035/900471749.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44035
+waktu_pengambilan 	: 16-05-2019 17:30:22
+kpu_jokowi 				: 114
+kpu_prabowo 			: 44
+kawalpemilu_jokowi		: 114
+kawalpemilu_prabowo		: 68
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SUMBERMANJING WETAN / SUMBERMANJING WETAN / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44025/44036/900471781.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44036
+waktu_pengambilan 	: 16-05-2019 17:30:23
+kpu_jokowi 				: 103
+kpu_prabowo 			: 53
+kawalpemilu_jokowi		: 144
+kawalpemilu_prabowo		: 39
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SUMBERMANJING WETAN / DRUJU / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44025/44038/900471811.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44038
+waktu_pengambilan 	: 16-05-2019 17:30:25
+kpu_jokowi 				: 161
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 160
+kawalpemilu_prabowo		: 41
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SUMBERMANJING WETAN / DRUJU / TPS 31
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44025/44038/900471833.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44038
+waktu_pengambilan 	: 16-05-2019 17:30:25
+kpu_jokowi 				: 136
+kpu_prabowo 			: 22
+kawalpemilu_jokowi		: 135
+kawalpemilu_prabowo		: 30
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / DAMPIT / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44042/900471885.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44042
+waktu_pengambilan 	: 16-05-2019 17:30:30
+kpu_jokowi 				: 127
+kpu_prabowo 			: 23
+kawalpemilu_jokowi		: 139
+kawalpemilu_prabowo		: 43
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / SUKODONO / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44043/900471960.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44043
+waktu_pengambilan 	: 16-05-2019 17:30:32
+kpu_jokowi 				: 146
+kpu_prabowo 			: 48
+kawalpemilu_jokowi		: 178
+kawalpemilu_prabowo		: 19
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / SUKODONO / TPS 17
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44043/900471974.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44043
+waktu_pengambilan 	: 16-05-2019 17:30:32
+kpu_jokowi 				: 150
+kpu_prabowo 			: 5
+kawalpemilu_jokowi		: 150
+kawalpemilu_prabowo		: 8
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / BUMIREJO / TPS 24
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44047/900472091.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44047
+waktu_pengambilan 	: 16-05-2019 17:30:37
+kpu_jokowi 				: 159
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 145
+kawalpemilu_prabowo		: 21
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / MAJANGTENGAH / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44050/900472187.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44050
+waktu_pengambilan 	: 16-05-2019 17:30:40
+kpu_jokowi 				: 105
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 117
+kawalpemilu_prabowo		: 24
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAMPIT / MAJANGTENGAH / TPS 27
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44041/44050/900472206.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44050
+waktu_pengambilan 	: 16-05-2019 17:30:40
+kpu_jokowi 				: 162
+kpu_prabowo 			: 43
+kawalpemilu_jokowi		: 127
+kawalpemilu_prabowo		: 36
+------
+
+wilayah 			: JAWA TIMUR / MALANG / AMPELGADING / SIDORENGGO / TPS 28
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44054/44060/900472401.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44060
+waktu_pengambilan 	: 16-05-2019 17:30:51
+kpu_jokowi 				: 119
+kpu_prabowo 			: 32
+kawalpemilu_jokowi		: 119
+kawalpemilu_prabowo		: 22
+------
+
+wilayah 			: JAWA TIMUR / MALANG / AMPELGADING / SIMOJAYAN / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44054/44065/900472471.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44065
+waktu_pengambilan 	: 16-05-2019 17:30:57
+kpu_jokowi 				: 164
+kpu_prabowo 			: 26
+kawalpemilu_jokowi		: 169
+kawalpemilu_prabowo		: 26
+------
+
+wilayah 			: JAWA TIMUR / MALANG / WAJAK / SUKOLILO / TPS 22
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44086/44095/900472986.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44095
+waktu_pengambilan 	: 16-05-2019 17:31:40
+kpu_jokowi 				: 176
+kpu_prabowo 			: 25
+kawalpemilu_jokowi		: 124
+kawalpemilu_prabowo		: 104
+------
+
+wilayah 			: JAWA TIMUR / MALANG / TUREN / TAWANGREJENI / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44100/44103/900473163.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44103
+waktu_pengambilan 	: 16-05-2019 17:31:50
+kpu_jokowi 				: 155
+kpu_prabowo 			: 40
+kawalpemilu_jokowi		: 40
+kawalpemilu_prabowo		: 195
+------
+
+wilayah 			: JAWA TIMUR / MALANG / GONDANGLEGI / GANJARAN / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44118/44126/900473596.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44126
+waktu_pengambilan 	: 16-05-2019 17:32:19
+kpu_jokowi 				: 66
+kpu_prabowo 			: 56
+kawalpemilu_jokowi		: 66
+kawalpemilu_prabowo		: 59
+------
+
+wilayah 			: JAWA TIMUR / MALANG / KALIPARE / TUMPAKREJO / TPS 14
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44133/44138/900473856.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44138
+waktu_pengambilan 	: 16-05-2019 17:32:33
+kpu_jokowi 				: 153
+kpu_prabowo 			: 13
+kawalpemilu_jokowi		: 135
+kawalpemilu_prabowo		: 13
+------
+
+wilayah 			: JAWA TIMUR / MALANG / KEPANJEN / KEMIRI / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44151/44156/900474244.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44156
+waktu_pengambilan 	: 16-05-2019 17:32:54
+kpu_jokowi 				: 130
+kpu_prabowo 			: 69
+kawalpemilu_jokowi		: 130
+kawalpemilu_prabowo		: 63
+------
+
+wilayah 			: JAWA TIMUR / MALANG / BULULAWANG / KREBET / TPS 06
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44170/44174/900474544.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44174
+waktu_pengambilan 	: 16-05-2019 17:33:18
+kpu_jokowi 				: 104
+kpu_prabowo 			: 86
+kawalpemilu_jokowi		: 103
+kawalpemilu_prabowo		: 86
+------
+
+wilayah 			: JAWA TIMUR / MALANG / TAJINAN / NGAWONGGO / TPS 01
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44185/44189/900474747.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44189
+waktu_pengambilan 	: 16-05-2019 17:33:38
+kpu_jokowi 				: 172
+kpu_prabowo 			: 18
+kawalpemilu_jokowi		: 171
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / KENONGO / TPS 07
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44217/900475152.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44217
+waktu_pengambilan 	: 16-05-2019 17:34:18
+kpu_jokowi 				: 111
+kpu_prabowo 			: 44
+kawalpemilu_jokowi		: 113
+kawalpemilu_prabowo		: 44
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / SUKOPURO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44219/900475176.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44219
+waktu_pengambilan 	: 16-05-2019 17:34:20
+kpu_jokowi 				: 180
+kpu_prabowo 			: 39
+kawalpemilu_jokowi		: 182
+kawalpemilu_prabowo		: 39
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / SUKOPURO / TPS 23
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44219/900475194.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44219
+waktu_pengambilan 	: 16-05-2019 17:34:20
+kpu_jokowi 				: 119
+kpu_prabowo 			: 27
+kawalpemilu_jokowi		: 119
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / KEMANTREN / TPS 24
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44224/900475289.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44224
+waktu_pengambilan 	: 16-05-2019 17:34:43
+kpu_jokowi 				: 119
+kpu_prabowo 			: 17
+kawalpemilu_jokowi		: 118
+kawalpemilu_prabowo		: 17
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / KEMANTREN / TPS 37
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44224/900475302.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44224
+waktu_pengambilan 	: 16-05-2019 17:34:43
+kpu_jokowi 				: 136
+kpu_prabowo 			: 7
+kawalpemilu_jokowi		: 12
+kawalpemilu_prabowo		: 112
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / JABUNG / TPS 26
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44227/900475371.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44227
+waktu_pengambilan 	: 16-05-2019 17:34:56
+kpu_jokowi 				: 106
+kpu_prabowo 			: 25
+kawalpemilu_jokowi		: 138
+kawalpemilu_prabowo		: 19
+------
+
+wilayah 			: JAWA TIMUR / MALANG / JABUNG / SLAMPAREJO / TPS 05
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44214/44228/900475384.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44228
+waktu_pengambilan 	: 16-05-2019 17:34:57
+kpu_jokowi 				: 121
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 41
+------
+
+wilayah 			: JAWA TIMUR / MALANG / PAKIS / SUMBERPASIR / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44230/44235/900475496.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44235
+waktu_pengambilan 	: 16-05-2019 17:35:05
+kpu_jokowi 				: 119
+kpu_prabowo 			: 61
+kawalpemilu_jokowi		: 145
+kawalpemilu_prabowo		: 57
+------
+
+wilayah 			: JAWA TIMUR / MALANG / PAKIS / SEKARPURO / TPS 32
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44230/44239/900475599.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44239
+waktu_pengambilan 	: 16-05-2019 17:35:09
+kpu_jokowi 				: 176
+kpu_prabowo 			: 129
+kawalpemilu_jokowi		: 76
+kawalpemilu_prabowo		: 129
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAU / KARANGWIDORO / TPS 20
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44282/44285/900476579.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44285
+waktu_pengambilan 	: 16-05-2019 17:36:10
+kpu_jokowi 				: 147
+kpu_prabowo 			: 12
+kawalpemilu_jokowi		: 120
+kawalpemilu_prabowo		: 12
+------
+
+wilayah 			: JAWA TIMUR / MALANG / DAU / MULYOAGUNG / TPS 32
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44282/44290/900476673.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44290
+waktu_pengambilan 	: 16-05-2019 17:36:18
+kpu_jokowi 				: 130
+kpu_prabowo 			: 71
+kawalpemilu_jokowi		: 131
+kawalpemilu_prabowo		: 71
+------
+
+wilayah 			: JAWA TIMUR / MALANG / KARANGPLOSO / NGIJO / TPS 08
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44293/44297/900476805.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44297
+waktu_pengambilan 	: 16-05-2019 17:36:26
+kpu_jokowi 				: 175
+kpu_prabowo 			: 51
+kawalpemilu_jokowi		: 174
+kawalpemilu_prabowo		: 51
+------
+
+wilayah 			: JAWA TIMUR / MALANG / KARANGPLOSO / NGIJO / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44293/44297/900476806.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44297
+waktu_pengambilan 	: 16-05-2019 17:36:26
+kpu_jokowi 				: 174
+kpu_prabowo 			: 49
+kawalpemilu_jokowi		: 174
+kawalpemilu_prabowo		: 46
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SINGOSARI / PAGENTAN / TPS 37
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44303/44304/900476984.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44304
+waktu_pengambilan 	: 16-05-2019 17:36:35
+kpu_jokowi 				: 146
+kpu_prabowo 			: 82
+kawalpemilu_jokowi		: 145
+kawalpemilu_prabowo		: 82
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SINGOSARI / LOSARI / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44303/44305/900477003.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44305
+waktu_pengambilan 	: 16-05-2019 17:36:36
+kpu_jokowi 				: 70
+kpu_prabowo 			: 108
+kawalpemilu_jokowi		: 70
+kawalpemilu_prabowo		: 170
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SINGOSARI / TAMANHARJO / TPS 13
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44303/44317/900477356.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44317
+waktu_pengambilan 	: 16-05-2019 17:36:56
+kpu_jokowi 				: 98
+kpu_prabowo 			: 96
+kawalpemilu_jokowi		: 47
+kawalpemilu_prabowo		: 142
+------
+
+wilayah 			: JAWA TIMUR / MALANG / SINGOSARI / RANDUANGUNG / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44303/44320/900477442.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44320
+waktu_pengambilan 	: 16-05-2019 17:37:00
+kpu_jokowi 				: 152
+kpu_prabowo 			: 72
+kawalpemilu_jokowi		: 124
+kawalpemilu_prabowo		: 87
+------
+
+wilayah 			: JAWA TIMUR / MALANG / GEDANGAN / SUMBEREJO / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44366/44372/900478468.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44372
+waktu_pengambilan 	: 16-05-2019 17:38:03
+kpu_jokowi 				: 177
+kpu_prabowo 			: 48
+kawalpemilu_jokowi		: 177
+kawalpemilu_prabowo		: 18
+------
+
+wilayah 			: JAWA TIMUR / MALANG / GEDANGAN / TUMPAKREJO / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44366/44373/900478499.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44373
+waktu_pengambilan 	: 16-05-2019 17:38:05
+kpu_jokowi 				: 115
+kpu_prabowo 			: 8
+kawalpemilu_jokowi		: 169
+kawalpemilu_prabowo		: 9
+------
+
+wilayah 			: JAWA TIMUR / MALANG / GEDANGAN / TUMPAKREJO / TPS 11
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44366/44373/900478500.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44373
+waktu_pengambilan 	: 16-05-2019 17:38:05
+kpu_jokowi 				: 82
+kpu_prabowo 			: 28
+kawalpemilu_jokowi		: 81
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / MALANG / TIRTOYUDO / JOGOMULYAN / TPS 10
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44375/44379/900478591.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44379
+waktu_pengambilan 	: 16-05-2019 17:38:12
+kpu_jokowi 				: 134
+kpu_prabowo 			: 33
+kawalpemilu_jokowi		: 134
+kawalpemilu_prabowo		: 32
+------
+
+wilayah 			: JAWA TIMUR / MALANG / TIRTOYUDO / SUKOREJO / TPS 03
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44375/44382/900478632.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44382
+waktu_pengambilan 	: 16-05-2019 17:38:15
+kpu_jokowi 				: 117
+kpu_prabowo 			: 45
+kawalpemilu_jokowi		: 130
+kawalpemilu_prabowo		: 28
+------
+
+wilayah 			: JAWA TIMUR / MALANG / WONOSARI / KLUWUT / TPS 02
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/43993/44397/44398/900478919.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44398
+waktu_pengambilan 	: 16-05-2019 17:38:41
+kpu_jokowi 				: 127
+kpu_prabowo 			: 41
+kawalpemilu_jokowi		: 127
+kawalpemilu_prabowo		: 141
+------
+
+wilayah 			: JAWA TIMUR / LUMAJANG / TEMPURSARI / PUROREJO / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/44417/44418/44421/900479322.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44421
+waktu_pengambilan 	: 16-05-2019 17:39:08
+kpu_jokowi 				: 148
+kpu_prabowo 			: 27
+kawalpemilu_jokowi		: 121
+kawalpemilu_prabowo		: 41
+------
+
+wilayah 			: JAWA TIMUR / LUMAJANG / TEMPURSARI / KALIULING / TPS 09
+url_tps_kpu			: https://pemilu2019.kpu.go.id/static/json/hhcw/42385/44417/44418/44425/900479388.json
+url_kawal_pemilu	: https://kawalpemilu.org/#pilpres:44425
+waktu_pengambilan 	: 16-05-2019 17:39:12
+kpu_jokowi 				: 127
+kpu_prabowo 			: 64
+kawalpemilu_jokowi		: 127
+kawalpemilu_prabowo		: 60
+------
+
